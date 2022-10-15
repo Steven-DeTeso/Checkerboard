@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    width: 997px;
+    height: 600px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.header{
+    margin: auto;
+    padding: 10px;
+    border: 2px solid black;
+    text-align: center;
+    width:380px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+td{
+    width: 45px;
+    height: 45px;
+}
